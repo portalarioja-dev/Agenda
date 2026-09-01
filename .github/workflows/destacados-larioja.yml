@@ -1,0 +1,37 @@
+name: Actualizar destacados de agenda.larioja.com
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 06:00 UTC (08:00 hora de España en verano,
+    # 07:00 en horario de invierno)
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}   # permite lanzarlo manualmente desde GitHub si algún día quieres
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Ejecutar el script de extracción
+        run: python extraer_destacados.py
+
+      - name: Guardar destacados.json en el repositorio (si ha cambiado)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add destacados.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Actualizar destacados de agenda.larioja.com"
+          git push
