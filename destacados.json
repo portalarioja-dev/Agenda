@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-09-10T10:23:58.740873+00:00",
+  "actualizado": "2026-09-11T10:25:56.154963+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'Cortomatografías'",
-      "categoria": "Cineclub",
-      "enlace": "https://agenda.larioja.com/evento/cortomatografias-847539.html",
+      "titulo": "'Fauna y flora amenazada en La Rioja'",
+      "categoria": "Varios",
+      "enlace": "https://agenda.larioja.com/evento/fauna-y-flora-amenazada-en-la-rioja-847604.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "'Bienvenido Mr. Eclipse'",
-      "categoria": "Espectáculos",
-      "enlace": "https://agenda.larioja.com/evento/bienvenido-mr-eclipse-847534.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "Giramundo",
+      "titulo": "La Sagrada Familia",
       "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/giramundo-847532.html",
+      "enlace": "https://agenda.larioja.com/evento/la-sagrada-familia-847608.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "Paula Herreros y Mirko",
+      "categoria": "Varios",
+      "enlace": "https://agenda.larioja.com/evento/paula-herreros-y-mirko-847611.html",
       "fuente": "larioja.com"
     }
   ]
