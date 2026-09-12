@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-09-11T10:25:56.154963+00:00",
+  "actualizado": "2026-09-12T09:55:50.664154+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'Fauna y flora amenazada en La Rioja'",
-      "categoria": "Varios",
-      "enlace": "https://agenda.larioja.com/evento/fauna-y-flora-amenazada-en-la-rioja-847604.html",
+      "titulo": "'Sonrisas y lágrimas'",
+      "categoria": "Musicales",
+      "enlace": "https://agenda.larioja.com/evento/sonrisas-y-lagrimas-847613.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "La Sagrada Familia",
+      "titulo": "'Wanted'",
+      "categoria": "Espectáculos",
+      "enlace": "https://agenda.larioja.com/evento/wanted-847615.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "Rockdalosa",
       "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/la-sagrada-familia-847608.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "Paula Herreros y Mirko",
-      "categoria": "Varios",
-      "enlace": "https://agenda.larioja.com/evento/paula-herreros-y-mirko-847611.html",
+      "enlace": "https://agenda.larioja.com/evento/rockdalosa-847614.html",
       "fuente": "larioja.com"
     }
   ]
