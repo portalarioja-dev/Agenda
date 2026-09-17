@@ -1,13 +1,7 @@
 {
-  "actualizado": "2026-09-16T10:40:13.816414+00:00",
+  "actualizado": "2026-09-17T10:48:29.755177+00:00",
   "fuente": "larioja.com",
   "eventos": [
-    {
-      "titulo": "'Geopolítica del colapso: los conflictos postsoviéticos en perspectiva'",
-      "categoria": "Conferencias",
-      "enlace": "https://agenda.larioja.com/evento/geopolitica-del-colapso-los-conflictos-postsovieticos-en-perspectiva-847930.html",
-      "fuente": "larioja.com"
-    },
     {
       "titulo": "'OhPera Summer'",
       "categoria": "Cineclub",
@@ -18,6 +12,12 @@
       "titulo": "'El mago del Kremlin'",
       "categoria": "Varios",
       "enlace": "https://agenda.larioja.com/evento/el-mago-del-kremlin-848089.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'Cortomatografías'",
+      "categoria": "Cineclub",
+      "enlace": "https://agenda.larioja.com/evento/cortomatografias-848090.html",
       "fuente": "larioja.com"
     }
   ]
