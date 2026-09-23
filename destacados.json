@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-09-22T10:46:41.349797+00:00",
+  "actualizado": "2026-09-23T10:36:42.387400+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'Mejor no decirlo'",
-      "categoria": "Teatro",
-      "enlace": "https://agenda.larioja.com/evento/mejor-no-decirlo-848322.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Campechano'",
+      "titulo": "'Maribel Vermut y su entrenador'",
       "categoria": "Espectáculos",
-      "enlace": "https://agenda.larioja.com/evento/campechano-848329.html",
+      "enlace": "https://agenda.larioja.com/evento/maribel-vermut-y-su-entrenador-848337.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "Da Igual",
+      "titulo": "'Bailando en plata'",
+      "categoria": "Bailables",
+      "enlace": "https://agenda.larioja.com/evento/bailando-en-plata-848334.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "París de Noia",
       "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/da-igual-848330.html",
+      "enlace": "https://agenda.larioja.com/evento/paris-de-noia-848477.html",
       "fuente": "larioja.com"
     }
   ]
