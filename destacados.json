@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-09-29T11:57:33.050687+00:00",
+  "actualizado": "2026-09-30T11:45:43.740167+00:00",
   "fuente": "larioja.com",
   "eventos": [
-    {
-      "titulo": "'Casa'",
-      "categoria": "Libros",
-      "enlace": "https://agenda.larioja.com/evento/casa-848913.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "David Otero",
-      "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/david-otero-849046.html",
-      "fuente": "larioja.com"
-    },
     {
       "titulo": "'Ambulant'",
       "categoria": "Espectáculos",
       "enlace": "https://agenda.larioja.com/evento/ambulant-849049.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'El África más joven'",
+      "categoria": "Exposiciones",
+      "enlace": "https://agenda.larioja.com/evento/el-africa-mas-joven-847516.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'Tebeos. La historia de la narrativa gráfica en España y en La Rioja'",
+      "categoria": "Exposiciones",
+      "enlace": "https://agenda.larioja.com/evento/tebeos-la-historia-de-la-narrativa-grafica-en-espana-y-en-la-rioja-847159.html",
       "fuente": "larioja.com"
     }
   ]
