@@ -1,13 +1,7 @@
 {
-  "actualizado": "2026-10-05T13:19:28.010335+00:00",
+  "actualizado": "2026-10-06T12:35:32.413986+00:00",
   "fuente": "larioja.com",
   "eventos": [
-    {
-      "titulo": "FITLO 2026",
-      "categoria": "Teatro",
-      "enlace": "https://agenda.larioja.com/evento/fitlo-2026-849528.html",
-      "fuente": "larioja.com"
-    },
     {
       "titulo": "'El efecto cerezas'",
       "categoria": "Libros",
@@ -18,6 +12,12 @@
       "titulo": "'Cuando todo cambia' y 'Bajo otro nombre'",
       "categoria": "Libros",
       "enlace": "https://agenda.larioja.com/evento/cuando-todo-cambia-y-bajo-otro-nombre-849535.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "FITLO 2026",
+      "categoria": "Teatro",
+      "enlace": "https://agenda.larioja.com/evento/fitlo-2026-849536.html",
       "fuente": "larioja.com"
     }
   ]
