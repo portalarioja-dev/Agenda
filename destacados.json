@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-10-06T12:35:32.413986+00:00",
+  "actualizado": "2026-10-07T12:28:40.530827+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'El efecto cerezas'",
-      "categoria": "Libros",
-      "enlace": "https://agenda.larioja.com/evento/el-efecto-cerezas-849534.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Cuando todo cambia' y 'Bajo otro nombre'",
-      "categoria": "Libros",
-      "enlace": "https://agenda.larioja.com/evento/cuando-todo-cambia-y-bajo-otro-nombre-849535.html",
-      "fuente": "larioja.com"
-    },
-    {
       "titulo": "FITLO 2026",
-      "categoria": "Teatro",
-      "enlace": "https://agenda.larioja.com/evento/fitlo-2026-849536.html",
+      "categoria": "Espectáculos",
+      "enlace": "https://agenda.larioja.com/evento/fitlo-2026-849645.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'50 años de Urbanismo en España 1975-2025'",
+      "categoria": "Visitas guiadas",
+      "enlace": "https://agenda.larioja.com/evento/50-anos-de-urbanismo-en-espana-1975-2025-849646.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'Open Mic'",
+      "categoria": "Conciertos",
+      "enlace": "https://agenda.larioja.com/evento/open-mic-831614.html",
       "fuente": "larioja.com"
     }
   ]
