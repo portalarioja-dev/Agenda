@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-10-07T12:28:40.530827+00:00",
+  "actualizado": "2026-10-08T12:38:10.541885+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
       "titulo": "FITLO 2026",
+      "categoria": "Teatro",
+      "enlace": "https://agenda.larioja.com/evento/fitlo-2026-849879.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "David VIP y Elena Somovilla",
       "categoria": "Espectáculos",
-      "enlace": "https://agenda.larioja.com/evento/fitlo-2026-849645.html",
+      "enlace": "https://agenda.larioja.com/evento/david-vip-y-elena-somovilla-849878.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "'50 años de Urbanismo en España 1975-2025'",
-      "categoria": "Visitas guiadas",
-      "enlace": "https://agenda.larioja.com/evento/50-anos-de-urbanismo-en-espana-1975-2025-849646.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Open Mic'",
+      "titulo": "Uña y Carne",
       "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/open-mic-831614.html",
+      "enlace": "https://agenda.larioja.com/evento/una-y-carne-849881.html",
       "fuente": "larioja.com"
     }
   ]
