@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-10-13T13:20:59.566836+00:00",
+  "actualizado": "2026-10-14T10:59:56.006554+00:00",
   "fuente": "larioja.com",
   "eventos": [
-    {
-      "titulo": "'Bajamar'",
-      "categoria": "Libros",
-      "enlace": "https://agenda.larioja.com/evento/bajamar-850046.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Origen y evolución del Universo a través de los aceleradores de partículas'",
-      "categoria": "Conferencias",
-      "enlace": "https://agenda.larioja.com/evento/origen-y-evolucion-del-universo-a-traves-de-los-aceleradores-de-particulas-850415.html",
-      "fuente": "larioja.com"
-    },
     {
       "titulo": "'El viaje de Chiquitina'",
       "categoria": "Libros",
       "enlace": "https://agenda.larioja.com/evento/el-viaje-de-chiquitina-850053.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'50 años de Urbanismo en España 1975–2025'",
+      "categoria": "Conferencias",
+      "enlace": "https://agenda.larioja.com/evento/50-anos-de-urbanismo-en-espana-1975–2025-850048.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'El bosque de Ana María Matute'",
+      "categoria": "Teatro",
+      "enlace": "https://agenda.larioja.com/evento/el-bosque-de-ana-maria-matute-850054.html",
       "fuente": "larioja.com"
     }
   ]
