@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-10-14T10:59:56.006554+00:00",
+  "actualizado": "2026-10-15T10:42:37.630314+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'El viaje de Chiquitina'",
+      "titulo": "'13 & 14 (Numerical Series)'",
+      "categoria": "Espectáculos",
+      "enlace": "https://agenda.larioja.com/evento/13--14-numerical-series-850292.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'No todo era miedo' y 'Una casa sin ventanas'",
       "categoria": "Libros",
-      "enlace": "https://agenda.larioja.com/evento/el-viaje-de-chiquitina-850053.html",
+      "enlace": "https://agenda.larioja.com/evento/no-todo-era-miedo-y-una-casa-sin-ventanas-850295.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "'50 años de Urbanismo en España 1975–2025'",
-      "categoria": "Conferencias",
-      "enlace": "https://agenda.larioja.com/evento/50-anos-de-urbanismo-en-espana-1975–2025-850048.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'El bosque de Ana María Matute'",
-      "categoria": "Teatro",
-      "enlace": "https://agenda.larioja.com/evento/el-bosque-de-ana-maria-matute-850054.html",
+      "titulo": "Andromeda Satrústegui",
+      "categoria": "Conciertos",
+      "enlace": "https://agenda.larioja.com/evento/andromeda-satrustegui-850293.html",
       "fuente": "larioja.com"
     }
   ]
