@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-10-15T10:42:37.630314+00:00",
+  "actualizado": "2026-10-16T10:29:28.800098+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'13 & 14 (Numerical Series)'",
+      "titulo": "'80º aniversario del IES Valle del Cidacos'",
+      "categoria": "Exposiciones",
+      "enlace": "https://agenda.larioja.com/evento/80o-aniversario-del-ies-valle-del-cidacos-849800.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "XLII Muestra de teatro de aficionados",
+      "categoria": "Teatro",
+      "enlace": "https://agenda.larioja.com/evento/xlii-muestra-de-teatro-de-aficionados-850510.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'Vivir del cuento, del aire, de ilusiones'",
       "categoria": "Espectáculos",
-      "enlace": "https://agenda.larioja.com/evento/13--14-numerical-series-850292.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'No todo era miedo' y 'Una casa sin ventanas'",
-      "categoria": "Libros",
-      "enlace": "https://agenda.larioja.com/evento/no-todo-era-miedo-y-una-casa-sin-ventanas-850295.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "Andromeda Satrústegui",
-      "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/andromeda-satrustegui-850293.html",
+      "enlace": "https://agenda.larioja.com/evento/vivir-del-cuento-del-aire-de-ilusiones-850506.html",
       "fuente": "larioja.com"
     }
   ]
