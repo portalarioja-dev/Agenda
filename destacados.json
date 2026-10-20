@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-10-19T11:50:01.266023+00:00",
+  "actualizado": "2026-10-20T10:48:00.106385+00:00",
   "fuente": "larioja.com",
   "eventos": [
-    {
-      "titulo": "'Que se vayan todos'",
-      "categoria": "Libros",
-      "enlace": "https://agenda.larioja.com/evento/que-se-vayan-todos-850764.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Pensar los porqués'",
-      "categoria": "Conferencias",
-      "enlace": "https://agenda.larioja.com/evento/pensar-los-porques-850758.html",
-      "fuente": "larioja.com"
-    },
     {
       "titulo": "'¿Existe hoy la ética?'",
       "categoria": "Conferencias",
       "enlace": "https://agenda.larioja.com/evento/existe-hoy-la-etica-850761.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'Deus lo Vult'",
+      "categoria": "Libros",
+      "enlace": "https://agenda.larioja.com/evento/deus-lo-vult-850782.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'Martín Zurbano Baras'",
+      "categoria": "Conferencias",
+      "enlace": "https://agenda.larioja.com/evento/martin-zurbano-baras-850879.html",
       "fuente": "larioja.com"
     }
   ]
