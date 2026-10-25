@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-10-24T10:06:29.624597+00:00",
+  "actualizado": "2026-10-25T10:31:50.188634+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'Me hago mayor'",
-      "categoria": "Espectáculos",
-      "enlace": "https://agenda.larioja.com/evento/me-hago-mayor-851023.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'R&J'",
-      "categoria": "Teatro",
-      "enlace": "https://agenda.larioja.com/evento/rj-851029.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Naturaleza'",
+      "titulo": "'Orogenias: el origen del territorio'",
       "categoria": "Exposiciones",
-      "enlace": "https://agenda.larioja.com/evento/naturaleza-849799.html",
+      "enlace": "https://agenda.larioja.com/evento/orogenias-el-origen-del-territorio-837100.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "45ª Feria de Libro Antiguo y de Ocasión de Logroño 2026",
+      "categoria": "Ferias",
+      "enlace": "https://agenda.larioja.com/evento/45a-feria-de-libro-antiguo-y-de-ocasion-de-logrono-2026-850512.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "Carlos Pérez",
+      "categoria": "Conciertos",
+      "enlace": "https://agenda.larioja.com/evento/carlos-perez-851018.html",
       "fuente": "larioja.com"
     }
   ]
