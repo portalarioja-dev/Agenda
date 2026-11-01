@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-10-31T11:32:50.320208+00:00",
+  "actualizado": "2026-11-01T12:30:09.312883+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "Mantra Selektah",
-      "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/mantra-selektah-835634.html",
+      "titulo": "'Un cuento de miedo (que da risa)'",
+      "categoria": "Planes con niños",
+      "enlace": "https://agenda.larioja.com/evento/un-cuento-de-miedo-que-da-risa-810309.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "'Madness'",
+      "titulo": "'Con la música a otra parte'",
+      "categoria": "Exposiciones",
+      "enlace": "https://agenda.larioja.com/evento/con-la-musica-a-otra-parte-840442.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "VI Riojazz",
       "categoria": "Espectáculos",
-      "enlace": "https://agenda.larioja.com/evento/madness-851925.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "Visita teatralizada",
-      "categoria": "Visitas guiadas",
-      "enlace": "https://agenda.larioja.com/evento/visita-teatralizada-825499.html",
+      "enlace": "https://agenda.larioja.com/evento/vi-riojazz-851934.html",
       "fuente": "larioja.com"
     }
   ]
