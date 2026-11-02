@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-01T12:30:09.312883+00:00",
+  "actualizado": "2026-11-02T14:30:13.935152+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'Un cuento de miedo (que da risa)'",
-      "categoria": "Planes con niños",
-      "enlace": "https://agenda.larioja.com/evento/un-cuento-de-miedo-que-da-risa-810309.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Con la música a otra parte'",
+      "titulo": "'Aldabas'",
       "categoria": "Exposiciones",
-      "enlace": "https://agenda.larioja.com/evento/con-la-musica-a-otra-parte-840442.html",
+      "enlace": "https://agenda.larioja.com/evento/aldabas-849525.html",
       "fuente": "larioja.com"
     },
     {
       "titulo": "VI Riojazz",
-      "categoria": "Espectáculos",
-      "enlace": "https://agenda.larioja.com/evento/vi-riojazz-851934.html",
+      "categoria": "Conciertos",
+      "enlace": "https://agenda.larioja.com/evento/vi-riojazz-852000.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'El poder de dos palabras: ¿Y si?'",
+      "categoria": "Varios",
+      "enlace": "https://agenda.larioja.com/evento/el-poder-de-dos-palabras-y-si-852011.html",
       "fuente": "larioja.com"
     }
   ]
