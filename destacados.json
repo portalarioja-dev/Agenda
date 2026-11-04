@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-03T13:27:34.758299+00:00",
+  "actualizado": "2026-11-04T13:38:35.562633+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'Lejos del frente'",
-      "categoria": "Libros",
-      "enlace": "https://agenda.larioja.com/evento/lejos-del-frente-852009.html",
-      "fuente": "larioja.com"
-    },
-    {
       "titulo": "VI Riojazz",
       "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/vi-riojazz-852006.html",
+      "enlace": "https://agenda.larioja.com/evento/vi-riojazz-852204.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "'Comer bien con Anna Recetas Fáciles'",
-      "categoria": "Libros",
-      "enlace": "https://agenda.larioja.com/evento/comer-bien-con-anna-recetas-faciles-852013.html",
+      "titulo": "The Black Wizards",
+      "categoria": "Conciertos",
+      "enlace": "https://agenda.larioja.com/evento/the-black-wizards-811028.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "XXXVII Semana Cultural de las Ciencias Naturales",
+      "categoria": "Conferencias",
+      "enlace": "https://agenda.larioja.com/evento/xxxvii-semana-cultural-de-las-ciencias-naturales-852496.html",
       "fuente": "larioja.com"
     }
   ]
