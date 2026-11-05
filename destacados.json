@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-04T13:38:35.562633+00:00",
+  "actualizado": "2026-11-05T13:51:27.768542+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "VI Riojazz",
-      "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/vi-riojazz-852204.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "The Black Wizards",
-      "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/the-black-wizards-811028.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "XXXVII Semana Cultural de las Ciencias Naturales",
+      "titulo": "'Nociones básicas de extranjería'",
       "categoria": "Conferencias",
-      "enlace": "https://agenda.larioja.com/evento/xxxvii-semana-cultural-de-las-ciencias-naturales-852496.html",
+      "enlace": "https://agenda.larioja.com/evento/nociones-basicas-de-extranjeria-852392.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'Logroño con ojos clásicos'",
+      "categoria": "Libros",
+      "enlace": "https://agenda.larioja.com/evento/logrono-con-ojos-clasicos-852391.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'El rey y el tributo'",
+      "categoria": "Libros",
+      "enlace": "https://agenda.larioja.com/evento/el-rey-y-el-tributo-852390.html",
       "fuente": "larioja.com"
     }
   ]
