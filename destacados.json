@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-06T13:36:11.992044+00:00",
+  "actualizado": "2026-11-07T12:16:17.084928+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'Bienvenidos a Carreful'",
-      "categoria": "Teatro",
-      "enlace": "https://agenda.larioja.com/evento/bienvenidos-a-carreful-852396.html",
+      "titulo": "'Arquetipas'",
+      "categoria": "Visitas guiadas",
+      "enlace": "https://agenda.larioja.com/evento/arquetipas-847230.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "VI Riojazz",
-      "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/vi-riojazz-852397.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Ignatius Farray Show'",
+      "titulo": "'Crescendo'",
       "categoria": "Espectáculos",
-      "enlace": "https://agenda.larioja.com/evento/ignatius-farray-show-852495.html",
+      "enlace": "https://agenda.larioja.com/evento/crescendo-794161.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "Edén Serrano",
+      "categoria": "Espectáculos",
+      "enlace": "https://agenda.larioja.com/evento/eden-serrano-822481.html",
       "fuente": "larioja.com"
     }
   ]
