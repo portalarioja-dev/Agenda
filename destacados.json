@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-10T14:07:47.747606+00:00",
+  "actualizado": "2026-11-11T13:24:22.173398+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'Divulgaciencia 2026'",
+      "titulo": "Juegos de mesa",
+      "categoria": "Planes con niños",
+      "enlace": "https://agenda.larioja.com/evento/juegos-de-mesa-846874.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'¿Cómo te comunicas?'",
       "categoria": "Conferencias",
-      "enlace": "https://agenda.larioja.com/evento/divulgaciencia-2026-852920.html",
+      "enlace": "https://agenda.larioja.com/evento/como-te-comunicas-853122.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "'Rabia'",
-      "categoria": "Libros",
-      "enlace": "https://agenda.larioja.com/evento/rabia-852924.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "Young Cigar Smokers",
+      "titulo": "DeRobert & The Half-Truths",
       "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/young-cigar-smokers-852927.html",
+      "enlace": "https://agenda.larioja.com/evento/derobert--the-half-truths-853116.html",
       "fuente": "larioja.com"
     }
   ]
