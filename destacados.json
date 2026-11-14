@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-13T13:46:05.844498+00:00",
+  "actualizado": "2026-11-14T12:50:39.727726+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'El arranque… y nos vamos'",
+      "titulo": "'Arquetipas'",
+      "categoria": "Visitas guiadas",
+      "enlace": "https://agenda.larioja.com/evento/arquetipas-847230.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "Luis Álvaro",
       "categoria": "Espectáculos",
-      "enlace": "https://agenda.larioja.com/evento/el-arranque…-y-nos-vamos-827271.html",
+      "enlace": "https://agenda.larioja.com/evento/luis-alvaro-834590.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "Kaleidocsope Weekend",
-      "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/kaleidocsope-weekend-853175.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "Allnighters Kaleidoscope Weekend 2026",
-      "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/allnighters-kaleidoscope-weekend-2026-853174.html",
+      "titulo": "Visita teatralizada",
+      "categoria": "Visitas guiadas",
+      "enlace": "https://agenda.larioja.com/evento/visita-teatralizada-825499.html",
       "fuente": "larioja.com"
     }
   ]
