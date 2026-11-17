@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-16T14:30:49.109900+00:00",
+  "actualizado": "2026-11-17T15:21:38.578088+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'¿Hacia dónde apunta nuestro deseo?'",
-      "categoria": "Conferencias",
-      "enlace": "https://agenda.larioja.com/evento/hacia-donde-apunta-nuestro-deseo-853323.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Notorious'",
-      "categoria": "Cineclub",
-      "enlace": "https://agenda.larioja.com/evento/notorious-853324.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Agente Rossini. La historia del hombre que pudo haber evitado el 11-S'",
+      "titulo": "'El reflejo del ángel caído'",
       "categoria": "Libros",
-      "enlace": "https://agenda.larioja.com/evento/agente-rossini-la-historia-del-hombre-que-pudo-haber-evitado-el-11-s-853561.html",
+      "enlace": "https://agenda.larioja.com/evento/el-reflejo-del-angel-caido-853338.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'Rosa Castellot, una vida dibujando la sombra y la luz'",
+      "categoria": "Libros",
+      "enlace": "https://agenda.larioja.com/evento/rosa-castellot-una-vida-dibujando-la-sombra-y-la-luz-853337.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "Semana contra el odio",
+      "categoria": "Varios",
+      "enlace": "https://agenda.larioja.com/evento/semana-contra-el-odio-853340.html",
       "fuente": "larioja.com"
     }
   ]
