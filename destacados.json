@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-18T14:56:37.966666+00:00",
+  "actualizado": "2026-11-19T15:03:19.793804+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'Open Mic'",
-      "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/open-mic-831614.html",
+      "titulo": "'#Divulgaciencia26'",
+      "categoria": "Exposiciones",
+      "enlace": "https://agenda.larioja.com/evento/divulgaciencia26-852395.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "'De lo que me dices'",
+      "titulo": "'Acorde a la ciencia: la ciencia de por qué la música nos emociona'",
+      "categoria": "Espectáculos",
+      "enlace": "https://agenda.larioja.com/evento/acorde-a-la-ciencia-la-ciencia-de-por-que-la-musica-nos-emociona-853567.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'Recursos educativos para educar en convivencia, acompañar procesos y sembrar futuro'",
       "categoria": "Libros",
-      "enlace": "https://agenda.larioja.com/evento/de-lo-que-me-dices-853563.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "Artefacto",
-      "categoria": "Varios",
-      "enlace": "https://agenda.larioja.com/evento/artefacto-853795.html",
+      "enlace": "https://agenda.larioja.com/evento/recursos-educativos-para-educar-en-convivencia-acompanar-procesos-y-sembrar-futuro-853572.html",
       "fuente": "larioja.com"
     }
   ]
