@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-21T14:00:17.171175+00:00",
+  "actualizado": "2026-11-22T13:54:22.055586+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "Visita teatralizada",
-      "categoria": "Visitas guiadas",
-      "enlace": "https://agenda.larioja.com/evento/visita-teatralizada-825499.html",
+      "titulo": "'El rastro de Wei'",
+      "categoria": "Exposiciones",
+      "enlace": "https://agenda.larioja.com/evento/el-rastro-de-wei-847919.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "'Madame Butterfly'",
-      "categoria": "Música Clásica",
-      "enlace": "https://agenda.larioja.com/evento/madame-butterfly-854016.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Arte en movimiento'",
+      "titulo": "'Violencia'",
       "categoria": "Espectáculos",
-      "enlace": "https://agenda.larioja.com/evento/arte-en-movimiento-853732.html",
+      "enlace": "https://agenda.larioja.com/evento/violencia-853889.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "Raíz Compartida",
+      "categoria": "Conciertos",
+      "enlace": "https://agenda.larioja.com/evento/raiz-compartida-853890.html",
       "fuente": "larioja.com"
     }
   ]
