@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-22T13:54:22.055586+00:00",
+  "actualizado": "2026-11-23T17:05:52.993445+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'El rastro de Wei'",
-      "categoria": "Exposiciones",
-      "enlace": "https://agenda.larioja.com/evento/el-rastro-de-wei-847919.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Violencia'",
+      "titulo": "'Soliloquio en La Rioja'",
       "categoria": "Espectáculos",
-      "enlace": "https://agenda.larioja.com/evento/violencia-853889.html",
+      "enlace": "https://agenda.larioja.com/evento/soliloquio-en-la-rioja-854004.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "Raíz Compartida",
-      "categoria": "Conciertos",
-      "enlace": "https://agenda.larioja.com/evento/raiz-compartida-853890.html",
+      "titulo": "Mikel Chasco",
+      "categoria": "Varios",
+      "enlace": "https://agenda.larioja.com/evento/mikel-chasco-854002.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "'Seguridad, Defensa y Fuerzas Armadas'",
+      "categoria": "Conferencias",
+      "enlace": "https://agenda.larioja.com/evento/seguridad-defensa-y-fuerzas-armadas-854323.html",
       "fuente": "larioja.com"
     }
   ]
