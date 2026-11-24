@@ -1,23 +1,23 @@
 {
-  "actualizado": "2026-11-23T17:05:52.993445+00:00",
+  "actualizado": "2026-11-24T16:51:01.957873+00:00",
   "fuente": "larioja.com",
   "eventos": [
     {
-      "titulo": "'Soliloquio en La Rioja'",
-      "categoria": "Espectáculos",
-      "enlace": "https://agenda.larioja.com/evento/soliloquio-en-la-rioja-854004.html",
+      "titulo": "'La flauta mágica'",
+      "categoria": "Música Clásica",
+      "enlace": "https://agenda.larioja.com/evento/la-flauta-magica-854214.html",
       "fuente": "larioja.com"
     },
     {
-      "titulo": "Mikel Chasco",
+      "titulo": "'Bienestar socioemocional, cultura de paz, convivencia positiva'",
+      "categoria": "Libros",
+      "enlace": "https://agenda.larioja.com/evento/bienestar-socioemocional-cultura-de-paz-convivencia-positiva-854208.html",
+      "fuente": "larioja.com"
+    },
+    {
+      "titulo": "Club de lectura 'Leyendo a contrapunto'",
       "categoria": "Varios",
-      "enlace": "https://agenda.larioja.com/evento/mikel-chasco-854002.html",
-      "fuente": "larioja.com"
-    },
-    {
-      "titulo": "'Seguridad, Defensa y Fuerzas Armadas'",
-      "categoria": "Conferencias",
-      "enlace": "https://agenda.larioja.com/evento/seguridad-defensa-y-fuerzas-armadas-854323.html",
+      "enlace": "https://agenda.larioja.com/evento/club-de-lectura-leyendo-a-contrapunto-854211.html",
       "fuente": "larioja.com"
     }
   ]
